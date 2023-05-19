@@ -6,6 +6,7 @@
   "author": "Roi <68617740+Roizor@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "ts-loader": "^9.4.2",
     "typescript": "^5.0.4",
     "webpack": "^5.83.1"
   },

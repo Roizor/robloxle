@@ -3,7 +3,7 @@ import { Mod } from "./Mod.ts";
 export class removeOutsidePages extends Mod {
     constructor() {
         super("Remove Outside Pages", () => {
-            const linkList: string[] = [
+            const linkList = [
                 'nav-blog',
                 'nav-shop',
                 'nav-giftcards'
